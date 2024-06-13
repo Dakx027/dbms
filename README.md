@@ -12,8 +12,6 @@ Access the application by navigating to the appropriate URL in your browser, log
 Contributing
 To contribute to this project, fork the repository, create a new branch, make your changes, commit them, push to the branch, and create a Pull Request.
 
-License
-This project is licensed under the MIT License.
 
  
 
